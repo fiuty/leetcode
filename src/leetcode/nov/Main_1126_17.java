@@ -18,7 +18,7 @@ import java.util.stream.Collectors;
  * 输出：["a","b","c"]
  *
  * @date: 2024/11/26 23:21
- * @author: dayue
+ * @author: dd
  */
 public class Main_1126_17 {
     static Map<String, String> numMap = new HashMap<>();
